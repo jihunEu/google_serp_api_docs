@@ -1,15 +1,18 @@
 # Organic results
 
-### Thumbnail
+## Thumbnail
 
 #### Image
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample.json)
 
-![](../../../.gitbook/assets/organic\_thumbnail\_image.png)
+![](https://lh3.googleusercontent.com/1ToAcpLuqZcdezDnjytsLRtTpUV8hR9x5TZjcpmoD04lOMEWjLT79t-r3vRGWaZy5jZzzyELG-uogunyFJk-ZHYWIiHyL26C-xwfXNkVlapd-jgOBaumR93niwZF7Y1v8-VFPLc)
+
+
 
 ```
 {
+    "sequence": 3,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 2,
@@ -21,19 +24,19 @@
         "type": "image",
         "url": "http://m.finomy.com/news/articleView.html?idxno=78147",
         "desc": "샴푸 키워드(출처: m.finomy.com)"
-    },
-    "sequence": 3
+    }
 }
 ```
 
 #### Video
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample1.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_video.png)
 
 ```
 {
+    "sequence": 13,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(46) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 9,
@@ -45,19 +48,19 @@
         "type": "video",
         "url": "https://imnews.imbc.com/replay/2018/nwtoday/article/4679487_30188.html",
         "desc": "여름 탈모샴푸 동영상"
-    },
-    "sequence": 13
+    }
 }
 ```
 
 #### Direct video
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/thumbnail/sample2.json)
 
 ![](../../../.gitbook/assets/organic\_thumbnail\_direct\_videopng.png)
 
 ```
 {
+    "sequence": 20,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.PHap3c",
     "position": 19,
@@ -67,19 +70,19 @@
     "thumbnail": {
         "type": "direct_video",
         "url": "https://m.youtube.com/watch?v=0ljX4ijZCTM&t=72"
-    },
-    "sequence": 20
+    }
 }
 ```
 
-### Carousels
+## Carousels
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/carousels/sample.json)
 
 ![](../../../.gitbook/assets/organic\_carousels.png)
 
 ```
 {
+    "sequence": 9,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_Jlp8Yrr0FMqFoAS48aLQDQ11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 3,
@@ -132,19 +135,19 @@
             "title": "NFL 2022 schedule release: CBS reveals champion Rams will host Russell Wilson, Broncos on Christmas Day",
             "date": "1 day ago"
         }
-    ],
-    "sequence": 9
+    ]  
 }
 ```
 
-### Rating
+## Rating
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rating/sample.json)
 
 ![](../../../.gitbook/assets/organic\_rating.png)
 
 ```
 {
+    "sequence": 21,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 16,
@@ -160,12 +163,11 @@
     "rating": {
         "rating_count": "(68)",
         "rating_value": "4.6"
-    },
-    "sequence": 21
+    }
 }
 ```
 
-### Rich snippet
+## Rich snippet
 
 [HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rich\_snippet/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/organic\_results/rich\_snippet/sample.json)
 
@@ -173,6 +175,7 @@
 
 ```
 {
+    "sequence": 13,
     "type": "organic_results",
     "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
     "position": 10,
@@ -194,7 +197,6 @@
             "key": "해결 방법",
             "value": "창의력에 의한 많은 아이디어 작성을 통해 해결"
         }
-    ],
-    "sequence": 13
+    ]
 }
 ```

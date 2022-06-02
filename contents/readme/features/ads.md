@@ -1,6 +1,6 @@
 # Ads
 
-[HTML](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ads/sample.html) [JSON](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ads/sample.json)
+[**HTML**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ads/sample.html) **** [**JSON**](http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/docs/mobile/features/ads/sample.json)
 
 ![](../../../.gitbook/assets/ads.png)
 
