@@ -62,3 +62,7 @@ Video carousels feature 추가 Mobile, desktop No results feature 추가&#x20;
 #### &#x20;2022-05-31&#x20;
 
 * Featured snippet, unknown, desktop related searches feature 패턴 변경
+
+#### 2022-06-07
+
+* people also search for, featured snippet 패턴 변
