@@ -65,4 +65,4 @@ Video carousels feature 추가 Mobile, desktop No results feature 추가&#x20;
 
 #### 2022-06-07
 
-* people also search for, featured snippet, scholar 패턴 변
+* people also search for, featured snippet, scholar 패턴 변경
