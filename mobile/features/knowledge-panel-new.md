@@ -1,4 +1,4 @@
-# Knowledge panel
+# Knowledge panel (new)
 
 ## **Rich snippet**
 
@@ -753,6 +753,103 @@
         "ss:/webfacts:형태",
         "ss:/webfacts:자회사",
         "ss:/webfacts:본사_소재지"
+    ]
+}
+```
+
+## Ads\_exist (new) (temp)
+
+[HTML](http://node0033.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220608/2206081109/223165239114-80DE235DFD604BC8AF998C96E2DA18D3-00.html) [JSON](http://node0033.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220608/2206081109/223165239114-80DE235DFD604BC8AF998C96E2DA18D3-00.json)
+
+![](<../../.gitbook/assets/image (1).png>)
+
+```
+{
+    "sequence": 4,
+    "type": "knowledge_panel",
+    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_wwSgYseHC4DE0PEPhK620Ak10.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+    "attrids": [
+        {
+            "attrid": "kc:/location/location:actions",
+            "values": [
+                "전화",
+                "경로",
+                "공유",
+                " 저장"
+            ]
+        },
+        {
+            "attrid": "kc:/local:hotel action",
+            "values": [
+                "객실 예약"
+            ]
+        },
+        {
+            "attrid": "kc:/local:pending edits"
+        },
+        {
+            "attrid": "kc:/location/location:address",
+            "values": [
+                "부산광역시 수영구 광안해변로 247-1 (민락동, 행복빌딩)"
+            ]
+        },
+        {
+            "attrid": "kc:/local:hotel booking",
+            "values": [
+                "체크인",
+                "6월 12일 (일)",
+                "체크아웃",
+                "6월 13일 (월)",
+                "2",
+                "사용 인원 1명",
+                "사용 인원 2명",
+                "사용 인원 3명",
+                "사용 인원 4명",
+                "광고",
+                "·",
+                "추천 옵션",
+                "현재 검색어와 관련된 광고입니다.",
+                "가격은 선택한 날짜에 Google 파트너가 제공하는 공개 가격입니다.",
+                "자격을 갖춘 사용자에게는 더 낮은 비공개 파트너 가격이 제공됩니다.",
+                "• FindHotel.net, Tripadvisor.co.kr 및 Trip.com",
+                "가격에 대해 자세히 알아보기",
+                "날짜를 명시하지 않는 경우 객실 이용가능 여부 또는 ",
+                "웹 및 앱 활동",
+                "에 저장된 탐색 활동 및 최근 검색어를 바탕으로 표시된 날짜가 선택됩니다. 데이터 사용 방식은 ",
+                "개인정보 보호 설정",
+                "에서 관리할 수 있습니다.",
+                "광고 설정",
+                "₩32,000",
+                "FindHotel.net",
+                "₩32,928",
+                "Tripadvisor.co.kr",
+                "무료 취소 기한:",
+                "6월 11일",
+                "₩32,928",
+                "Trip.com",
+                "무료 취소 기한:",
+                "6월 11일",
+                "모든 옵션",
+                "₩32,000",
+                "FindHotel.net",
+                "₩32,928",
+                "Trip.com",
+                "무료 취소 기한:",
+                "6월 11일",
+                "1개 더보기",
+                "가격을 업데이트할 수 없습니다. ",
+                "다시 시도",
+                "."
+            ]
+        }
+    ],
+    "ads_exist": true,
+    "_attrids": [
+        "kc:/location/location:actions",
+        "kc:/local:hotel action",
+        "kc:/local:pending edits",
+        "kc:/location/location:address",
+        "kc:/local:hotel booking"
     ]
 }
 ```

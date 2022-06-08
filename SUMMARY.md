@@ -14,6 +14,7 @@
   * [People also search for](mobile/features/people-also-search-for.md)
   * [People search next](mobile/features/people-search-next.md)
   * [Broaden searches](mobile/features/broaden-searches.md)
+  * [Discover more places (new)](mobile/features/discover-more-places-new.md)
   * [Interesting finds](mobile/features/interesting-finds.md)
   * [Refined searches](mobile/features/refined-searches.md)
   * [Articles](mobile/features/articles.md)
@@ -35,7 +36,7 @@
   * [Related searches](mobile/features/related-searches.md)
   * [Sns](mobile/features/sns.md)
   * [Sticky header tabs](mobile/features/sticky-header-tabs.md)
-  * [Knowledge panel](mobile/features/knowledge-panel.md)
+  * [Knowledge panel (new)](mobile/features/knowledge-panel-new.md)
   * [Video results](mobile/features/video-results.md)
 
 ## Desktop
