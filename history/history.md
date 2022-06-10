@@ -1,5 +1,9 @@
 # History
 
+#### 2022-06-10
+
+* organic results 패턴 변경
+
 #### 2022-06-08
 
 * discover more places feature 추가
